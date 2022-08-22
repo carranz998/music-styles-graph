@@ -1,75 +1,76 @@
-Alternative Metal
-Atmospheric Black Metal
-Atmospheric Sludge Metal
-Avant-Garde Black Metal
-Avant-Garde Death Metal
-Avant-Garde Metal
-Beatdown Hardcore
-Black & Roll
-Black Metal
-Blackened Death Metal
-Blackened Thrash Metal
-Blackgaze
-Brutal Death Metal
-Celtic Metal
-Crossover Thrash
-Cyber Metal
-Cybergrind
-Death & Roll
-Death Doom Metal
-Death Metal
-Deathcore
-Deathgrind
-Depressive Suicidal Black Metal
-Djent
-Doom Metal
-Doomgaze
-Drone Metal
-Epic Doom Metal
-Folk Metal
-Funeral Doom Metal
-Funk Metal
-Glam Metal
-Goregrind
-Gothic Metal
-Grindcore
-Groove Metal
-Heavy Metal
-Heavy Power Metal
-Industrial Metal
-Mathcore
-Melodic Black Metal
-Melodic Death Metal
-Melodic Metalcore
-Metalcore
-Neoclassical Metal
-Neoclassical Power Metal
-Neue Deutsche Härte
-Nu Metal
-NWOBHM
-Pagan Black Metal
-Post-Metal
-Power Metal
-Progressive Black Metal
-Progressive Death Metal
-Progressive Metal
-Progressive Metalcore
-Progressive Power Metal
-Rap Metal
-Slam Death Metal
-Sludge Metal
-Speed Metal
-Stoner Metal
-Symphonic Black Metal
-Symphonic Metal
-Symphonic Power Metal
-Technical Brutal Death Metal
-Technical Death Metal
-Technical Deathcore
-Technical Thrash Metal
-Thrash Metal
-Traditional Doom Metal
-Trance Metal
-US Power Metal
-Viking Metal
-War Metal
+id,name
+1,Alternative Metal
+2,Atmospheric Black Metal
+3,Atmospheric Sludge Metal
+4,Avant-Garde Black Metal
+5,Avant-Garde Death Metal
+6,Avant-Garde Metal
+7,Beatdown Hardcore
+8,Black & Roll
+9,Black Metal
+10,Blackened Death Metal
+11,Blackened Thrash Metal
+12,Blackgaze
+13,Brutal Death Metal
+14,Celtic Metal
+15,Crossover Thrash
+16,Cyber Metal
+17,Cybergrind
+18,Death & Roll
+19,Death Doom Metal
+20,Death Metal
+21,Deathcore
+22,Deathgrind
+23,Depressive Suicidal Black Metal
+24,Djent
+25,Doom Metal
+26,Doomgaze
+27,Drone Metal
+28,Epic Doom Metal
+29,Folk Metal
+30,Funeral Doom Metal
+31,Funk Metal
+32,Glam Metal
+33,Goregrind
+34,Gothic Metal
+35,Grindcore
+36,Groove Metal
+37,Heavy Metal
+38,Heavy Power Metal
+39,Industrial Metal
+40,Mathcore
+41,Melodic Black Metal
+42,Melodic Death Metal
+43,Melodic Metalcore
+44,Metalcore
+45,Neoclassical Metal
+46,Neoclassical Power Metal
+47,Neue Deutsche Härte
+48,Nu Metal
+49,NWOBHM
+50,Pagan Black Metal
+51,Post-Metal
+52,Power Metal
+53,Progressive Black Metal
+54,Progressive Death Metal
+55,Progressive Metal
+56,Progressive Metalcore
+57,Progressive Power Metal
+58,Rap Metal
+59,Slam Death Metal
+60,Sludge Metal
+61,Speed Metal
+62,Stoner Metal
+63,Symphonic Black Metal
+64,Symphonic Metal
+65,Symphonic Power Metal
+66,Technical Brutal Death Metal
+67,Technical Death Metal
+68,Technical Deathcore
+69,Technical Thrash Metal
+70,Thrash Metal
+71,Traditional Doom Metal
+72,Trance Metal
+73,US Power Metal
+74,Viking Metal
+75,War Metal

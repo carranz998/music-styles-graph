@@ -3,7 +3,7 @@ import pandas as pd
 
 class MusicStyles:
     @classmethod
-    def gather(cls) -> pd.Series:
-        s_styles = pd.read_csv('resources\\styles.csv', header=None).squeeze()
+    def gather(cls) -> pd.DataFrame:
+        df_music_styles = pd.read_csv('resources\\styles.csv')
 
-        return s_styles if isinstance(s_styles, pd.Series) else pd.Series()
+        return df_music_styles
