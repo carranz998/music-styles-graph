@@ -8,11 +8,13 @@ class DatabaseConnection(metaclass=ThreadSafeSingleton):
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
 
     def close(self) -> None:
-        self.driver.close()
+        if self.driver:
+            self.driver.close()
 
     def execute_transaction(self, query: str) -> None:
-        with self.driver.session() as session:
-            session.write_transaction(self.__execute_query, query)
+        if self.driver:
+            with self.driver.session() as session:
+                session.write_transaction(self.__execute_query, query)
 
     def __execute_query(self, tx: neo4j.Transaction, query: str) -> None:
         tx.run(query)
